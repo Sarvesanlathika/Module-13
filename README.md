@@ -7,7 +7,7 @@ Start the program. Initialize an empty stack and an empty output string. Iterate
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 OPERATORS = set(['&','-','/','(',')'])
 PRIORITY = {'&':1,'-':2,'/':3}
@@ -54,7 +54,7 @@ Start the program. Define a class st with the following methods: push(self, num)
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 stack = []
 class st:
@@ -100,7 +100,7 @@ Start the program. Define a set named OPERATORS containing all the valid operato
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 OPERATORS=set(['*','+']) 
 
@@ -142,7 +142,7 @@ Start the program. Define a set of valid operators: *, -, +, %, /, **. Initializ
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 OPERATORS=set(['*','-','+','%','/','**']) 
 
@@ -195,7 +195,7 @@ Start the program. Input the number of disks n. Print the number of disks. Defin
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 def TowerOfHanoi(n, source, destination, auxiliary):
     if (n > 0):
